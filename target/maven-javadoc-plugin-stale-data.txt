@@ -1,0 +1,76 @@
+@options
+@packages
+-classpath
+'/Users/marcboorshtein/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar:/Users/marcboorshtein/.m2/repository/jakarta/xml/ws/jakarta.xml.ws-api/4.0.0/jakarta.xml.ws-api-4.0.0.jar:/Users/marcboorshtein/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.0/jakarta.xml.bind-api-4.0.0.jar:/Users/marcboorshtein/.m2/repository/jakarta/xml/soap/jakarta.xml.soap-api/3.0.0/jakarta.xml.soap-api-3.0.0.jar:/Users/marcboorshtein/.m2/repository/com/sun/xml/ws/jaxws-rt/4.0.1/jaxws-rt-4.0.1.jar:/Users/marcboorshtein/.m2/repository/com/sun/xml/bind/jaxb-impl/4.0.2/jaxb-impl-4.0.2.jar:/Users/marcboorshtein/.m2/repository/com/sun/xml/bind/jaxb-core/4.0.2/jaxb-core-4.0.2.jar:/Users/marcboorshtein/.m2/repository/org/glassfish/ha/ha-api/3.1.13/ha-api-3.1.13.jar:/Users/marcboorshtein/.m2/repository/org/glassfish/external/management-api/3.2.3/management-api-3.2.3.jar:/Users/marcboorshtein/.m2/repository/org/glassfish/gmbal/gmbal-api-only/4.0.3/gmbal-api-only-4.0.3.jar:/Users/marcboorshtein/.m2/repository/org/jvnet/staxex/stax-ex/2.1.0/stax-ex-2.1.0.jar:/Users/marcboorshtein/.m2/repository/com/sun/xml/stream/buffer/streambuffer/2.1.0/streambuffer-2.1.0.jar:/Users/marcboorshtein/.m2/repository/org/jvnet/mimepull/mimepull/1.10.0/mimepull-1.10.0.jar:/Users/marcboorshtein/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/2.1.0/FastInfoset-2.1.0.jar:/Users/marcboorshtein/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.1/jakarta.mail-api-2.1.1.jar:/Users/marcboorshtein/.m2/repository/org/eclipse/angus/angus-activation/2.0.0/angus-activation-2.0.0.jar:/Users/marcboorshtein/.m2/repository/org/eclipse/angus/angus-mail/2.0.1/angus-mail-2.0.1.jar:/Users/marcboorshtein/.m2/repository/com/sun/xml/messaging/saaj/saaj-impl/3.0.0/saaj-impl-3.0.0.jar:/Users/marcboorshtein/.m2/repository/com/fasterxml/woodstox/woodstox-core/6.5.0/woodstox-core-6.5.0.jar:/Users/marcboorshtein/.m2/repository/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.jar:/Users/marcboorshtein/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.1/jakarta.activation-api-2.1.1.jar:/Users/marcboorshtein/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/Users/marcboorshtein/git/java-spnego/src/main/java:/Users/marcboorshtein/git/java-spnego/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/marcboorshtein/git/java-spnego/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'spnego 3.0.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/marcboorshtein/git/java-spnego/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'spnego 3.0.0 API'
+net.sourceforge.spnego
+net.sf.spnego
+/Users/marcboorshtein/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar = 1676478159829
+/Users/marcboorshtein/.m2/repository/jakarta/xml/ws/jakarta.xml.ws-api/4.0.0/jakarta.xml.ws-api-4.0.0.jar = 1689359278048
+/Users/marcboorshtein/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.0/jakarta.xml.bind-api-4.0.0.jar = 1689359278056
+/Users/marcboorshtein/.m2/repository/jakarta/xml/soap/jakarta.xml.soap-api/3.0.0/jakarta.xml.soap-api-3.0.0.jar = 1689359278044
+/Users/marcboorshtein/.m2/repository/com/sun/xml/ws/jaxws-rt/4.0.1/jaxws-rt-4.0.1.jar = 1689359586276
+/Users/marcboorshtein/.m2/repository/com/sun/xml/bind/jaxb-impl/4.0.2/jaxb-impl-4.0.2.jar = 1689359586197
+/Users/marcboorshtein/.m2/repository/com/sun/xml/bind/jaxb-core/4.0.2/jaxb-core-4.0.2.jar = 1689359586127
+/Users/marcboorshtein/.m2/repository/org/glassfish/ha/ha-api/3.1.13/ha-api-3.1.13.jar = 1689359278176
+/Users/marcboorshtein/.m2/repository/org/glassfish/external/management-api/3.2.3/management-api-3.2.3.jar = 1689359278218
+/Users/marcboorshtein/.m2/repository/org/glassfish/gmbal/gmbal-api-only/4.0.3/gmbal-api-only-4.0.3.jar = 1689359278227
+/Users/marcboorshtein/.m2/repository/org/jvnet/staxex/stax-ex/2.1.0/stax-ex-2.1.0.jar = 1689359278240
+/Users/marcboorshtein/.m2/repository/com/sun/xml/stream/buffer/streambuffer/2.1.0/streambuffer-2.1.0.jar = 1689359278240
+/Users/marcboorshtein/.m2/repository/org/jvnet/mimepull/mimepull/1.10.0/mimepull-1.10.0.jar = 1689359278246
+/Users/marcboorshtein/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/2.1.0/FastInfoset-2.1.0.jar = 1689359278268
+/Users/marcboorshtein/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.1/jakarta.mail-api-2.1.1.jar = 1689359586152
+/Users/marcboorshtein/.m2/repository/org/eclipse/angus/angus-activation/2.0.0/angus-activation-2.0.0.jar = 1689359586109
+/Users/marcboorshtein/.m2/repository/org/eclipse/angus/angus-mail/2.0.1/angus-mail-2.0.1.jar = 1689359586298
+/Users/marcboorshtein/.m2/repository/com/sun/xml/messaging/saaj/saaj-impl/3.0.0/saaj-impl-3.0.0.jar = 1689359278332
+/Users/marcboorshtein/.m2/repository/com/fasterxml/woodstox/woodstox-core/6.5.0/woodstox-core-6.5.0.jar = 1676477622477
+/Users/marcboorshtein/.m2/repository/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.jar = 1651189476927
+/Users/marcboorshtein/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.1/jakarta.activation-api-2.1.1.jar = 1689359586299
+/Users/marcboorshtein/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar = 1676478159876
+/Users/marcboorshtein/git/java-spnego/src/main/java = 1689359243671
+/Users/marcboorshtein/git/java-spnego/target/generated-sources/annotations = 1689359599474
+/Users/marcboorshtein/git/java-spnego/target/apidocs/constant-values.html = 1689359602849
+/Users/marcboorshtein/git/java-spnego/target/apidocs/member-search-index.zip = 1689359602884
+/Users/marcboorshtein/git/java-spnego/target/apidocs/overview-tree.html = 1689359602872
+/Users/marcboorshtein/git/java-spnego/target/apidocs/index.html = 1689359602893
+/Users/marcboorshtein/git/java-spnego/target/apidocs/package-search-index.js = 1689359602881
+/Users/marcboorshtein/git/java-spnego/target/apidocs/jquery-ui.overrides.css = 1689359602900
+/Users/marcboorshtein/git/java-spnego/target/apidocs/package-search-index.zip = 1689359602883
+/Users/marcboorshtein/git/java-spnego/target/apidocs/type-search-index.zip = 1689359602883
+/Users/marcboorshtein/git/java-spnego/target/apidocs/index-all.html = 1689359602885
+/Users/marcboorshtein/git/java-spnego/target/apidocs/allpackages-index.html = 1689359602888
+/Users/marcboorshtein/git/java-spnego/target/apidocs/deprecated-list.html = 1689359602890
+/Users/marcboorshtein/git/java-spnego/target/apidocs/member-search-index.js = 1689359602884
+/Users/marcboorshtein/git/java-spnego/target/apidocs/allclasses.html = 1689359602891
+/Users/marcboorshtein/git/java-spnego/target/apidocs/script.js = 1689359602896
+/Users/marcboorshtein/git/java-spnego/target/apidocs/stylesheet.css = 1689359602896
+/Users/marcboorshtein/git/java-spnego/target/apidocs/overview-summary.html = 1689359602894
+/Users/marcboorshtein/git/java-spnego/target/apidocs/help-doc.html = 1689359602895
+/Users/marcboorshtein/git/java-spnego/target/apidocs/element-list = 1689359602835
+/Users/marcboorshtein/git/java-spnego/target/apidocs/allclasses-index.html = 1689359602887
+/Users/marcboorshtein/git/java-spnego/target/apidocs/type-search-index.js = 1689359602883
+/Users/marcboorshtein/git/java-spnego/target/apidocs/search.js = 1689359602897

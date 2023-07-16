@@ -31,7 +31,7 @@ import java.util.logging.Logger;
 
 import javax.security.auth.login.AppConfigurationEntry;
 import javax.security.auth.login.Configuration;
-import javax.servlet.FilterConfig;
+import jakarta.servlet.FilterConfig;
 
 import net.sourceforge.spnego.SpnegoHttpFilter.Constants;
 
